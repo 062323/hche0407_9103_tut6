@@ -11,6 +11,6 @@ This method is closely related to our chosen topic, 'Saint Georges majeur au cre
 
 ### Coding Technique Exploration
 ![2](asset/Part2.jpg)
-[Link Text](https://www.google.com)
+[Example link](https://p5js.org/examples/simulate-particle-system.html)
 
 This example is a basic p5 particle system, which I believe is crucial for achieving my desired effect. Although there are many types of particle effects in P5.js, this effect has been chosen because it serves as the foundation for every particle system and is the easiest to implement. I anticipate using this effect extensively in creating the painting from scratch. Once the structure of the painting is established with this effect, I can then incorporate additional interactive effects such as Flocking or smoke particles based on this function.
