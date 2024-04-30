@@ -6,7 +6,7 @@
 
 >These screenshots are excerpts from a film project. In this project, the artist uses some volatile particle effects to demonstrate the memory of his deceased grandfather.
 >I really like this effect because it perfectly demonstrates a kind of dreamy atmosphere, suggesting that those memories are truly present but slowly fading away.
->This method is closely related to our chosen topic, 'Saint Georges majeur au crépuscule,' which its creator Claude Monet based on his memories of his trip to Venice. I think this is a good way to illustrate the fading memory of Monet.
+>This method is closely related to our chosen topic, __'Saint Georges majeur au crépuscule'__ which its creator Claude Monet based on his memories of his trip to Venice. I think this is a good way to illustrate the fading memory of Monet.
 
 
 
